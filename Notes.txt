@@ -1,0 +1,59 @@
+C:\MAMP\htdocs
+WebServer: Apache-Nginx
+htdocs means hypertext documents.
+
+
+Step 1:open webstart page:
+
+db-credentials:
+
+Host localhost:81
+Port 3306
+User root
+Password root
+
+Step 2: Click on mywebsite(browser)
+
+Step 3: install wordpress in C:\MAMP\htdocs 
+Wordpress has been Installed in: C:\MAMP\htdocs\wordpress
+
+Step 4: Now we need a new database:
+
+Name: Wordpress
+
+To create a database we need to go the php myadmin database:
+MAMP Icon-> Open WebStartPAge -> Tools -> PHP MyAdmin-> New Db -> Name-> Wordpress utf-ci -> Create
+
+Table:
+
+locolhost:81/wordpress
+English(US)-> Continue
+
+
+
+Database Name:wordpress
+Username:root
+
+
+
+
+
+
+
+
+
+
+
+
+
+Password:root
+Database Host:localhost
+Table Prefix
+
+
+Site Title:FutrueIsPresent
+Username: admin
+Password:&g78JHCit2tU*R04gN
+http://localhost:81/wordpress/wp-login.php
+http://localhost:81/wordpress/
+http://localhost:81/wordpress/wp-admin/
